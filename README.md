@@ -1,3 +1,3 @@
 # Amplitude Modulation (AM) of below Multi-rule function
 
-![Alt text](image/Capture.png)
+![alt text](https://github.com/[mahaamd]/[digitaltoanalog]/blob/[main]/image/Capture.jpg?raw=true)
