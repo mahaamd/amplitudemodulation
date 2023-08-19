@@ -1,1 +1,3 @@
-#  تبدیل سیگنال های آنالوگ به داده های دیجیتال
+# Amplitude Modulation (AM) of below Multi-rule function
+
+![Alt text](image.png)
