@@ -1,3 +1,3 @@
 # Amplitude Modulation (AM) of below Multi-rule function
 
-![Alt text](image.png)
+![Alt text](image/Capture.png)
